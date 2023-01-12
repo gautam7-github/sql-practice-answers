@@ -1,5 +1,3 @@
-SELECT
-  first_name,
-  last_name
-FROM patients
-where weight between 100 and 120;
+update patients
+SET allergies = 'NKA'
+WHERE allergies IS NULL
