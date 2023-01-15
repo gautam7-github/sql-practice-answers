@@ -41,5 +41,9 @@ Q17. Based on cities where our patient lives in, write a query to display the li
 
 # Medium
 
+Q18. Show unique birth years from patients and order them by ascending.
+
+Q19. Show unique first names from the patients table which only occurs once in the list.
+
 
 # Hard
