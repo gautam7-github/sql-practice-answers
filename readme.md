@@ -22,3 +22,15 @@ Q8. Show how many patients have a birth_date with 2010 as the birth year.
 Q9. Show the first_name, last_name, and height of the patient with the greatest height.
 
 Q10. Show all columns for patients who have one of the following patient_ids: 1,45,534,879,1000
+
+Q11. Show the total number of admissions
+
+Q12. Show all the columns from admissions where the patient was admitted and discharged on the same day.
+
+Q13.
+
+Q14.
+
+Q15.
+
+Q16.
