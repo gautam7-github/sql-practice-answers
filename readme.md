@@ -46,4 +46,6 @@ Q18. Show unique birth years from patients and order them by ascending.
 Q19. Show unique first names from the patients table which only occurs once in the list.
 
 Q20. Show patient_id and first_name from patients where their first_name start and ends with 's' and is at least 6 characters long.
+
+Q21. Show patient_id, first_name, last_name from patients whos diagnosis is 'Dementia'.
 # Hard
