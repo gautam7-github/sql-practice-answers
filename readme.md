@@ -2,6 +2,7 @@
 
 # https://www.sql-practice.com/
 
+# Easy
 
 Q1. Show first name, last name, and gender of patients who's gender is 'M'
 
@@ -27,10 +28,18 @@ Q11. Show the total number of admissions
 
 Q12. Show all the columns from admissions where the patient was admitted and discharged on the same day.
 
-Q13.
+Q13. Show the patient id and the total number of admissions for patient_id 579.
 
-Q14.
+Q14. Based on the cities that our patients live in, show unique cities that are in province_id 'NS'?
 
-Q15.
+Q15. Write a query to find the first_name, last name and birth date of patients who have height more than 160 and weight more than 70
 
-Q16.
+Q16. Write a query to find list of patients first_name, last_name, and allergies from Hamilton where allergies are not null
+
+Q17. Based on cities where our patient lives in, write a query to display the list of unique city starting with a vowel (a, e, i, o, u). Show the result order in ascending by city.
+
+
+# Medium
+
+
+# Hard
