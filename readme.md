@@ -48,4 +48,12 @@ Q19. Show unique first names from the patients table which only occurs once in t
 Q20. Show patient_id and first_name from patients where their first_name start and ends with 's' and is at least 6 characters long.
 
 Q21. Show patient_id, first_name, last_name from patients whos diagnosis is 'Dementia'.
+
+Q22. Display every patient's first_name. Order the list by the length of each name and then by alphbetically
+
+Q23. Show the total amount of male patients and the total amount of female patients in the patients table. Display the two results in the same row.
+
+Q24. Show first and last name, allergies from patients which have allergies to either 'Penicillin' or 'Morphine'. Show results ordered ascending by allergies then by first_name then by last_name.
+
+Q25. Show patient_id, diagnosis from admissions. Find patients admitted multiple times for the same diagnosis.
 # Hard
