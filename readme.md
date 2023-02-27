@@ -56,4 +56,21 @@ Q23. Show the total amount of male patients and the total amount of female patie
 Q24. Show first and last name, allergies from patients which have allergies to either 'Penicillin' or 'Morphine'. Show results ordered ascending by allergies then by first_name then by last_name.
 
 Q25. Show patient_id, diagnosis from admissions. Find patients admitted multiple times for the same diagnosis.
+
+Q26. Show the city and the total number of patients in the city. Order from most to least patients and then by city name ascending.
+
+Q27. Show first name, last name and role of every person that is either patient or doctor. The roles are either "Patient" or "Doctor"
+
+Q28. Show all allergies ordered by popularity. Remove NULL values from query.
+
+Q29. Show all patient's first_name, last_name, and birth_date who were born in the 1970s decade. Sort the list starting from the earliest birth_date.
+
+Q30. We want to display each patient's full name in a single column. Their last_name in all upper letters must appear first, then first_name in all lower case letters. Separate the last_name and first_name with a comma. Order the list by the first_name in decending order
+
+Q31. Show the province_id(s), sum of height; where the total sum of its patient's height is greater than or equal to 7,000.
+
+Q32. Show the difference between the largest weight and smallest weight for patients with the last name 'Maroni'
+
+Q33. Show all of the days of the month (1-31) and how many admission_dates occurred on that day. Sort by the day with most admissions to least admissions.
+
 # Hard
