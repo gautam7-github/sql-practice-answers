@@ -73,4 +73,24 @@ Q32. Show the difference between the largest weight and smallest weight for pati
 
 Q33. Show all of the days of the month (1-31) and how many admission_dates occurred on that day. Sort by the day with most admissions to least admissions.
 
+Q34. Show all columns for patient_id 542's most recent admission_date.
+
+Q35. Show patient_id, attending_doctor_id, and diagnosis for admissions that match one of the two criteria:
+    1. patient_id is an odd number and attending_doctor_id is either 1, 5, or 19.
+    2. attending_doctor_id contains a 2 and the length of patient_id is 3 characters.
+
+Q36. Show first_name, last_name, and the total number of admissions attended for each doctor.
+
+Q37. For each doctor, display their id, full name, and the first and last admission date they attended.
+
+Q38. Display the total amount of patients for each province. Order by descending.
+
+Q39. For every admission, display the patient's full name, their admission diagnosis, and their doctor's full name who diagnosed their problem.
+
+Q40. Display the number of duplicate patients based on their first_name and last_name.
+
+Q41. Display patient's full name, height in the units feet rounded to 1 decimal, weight in the unit pounds rounded to 0 decimals, birth_date, gender non abbreviated.
+
 # Hard
+
+Q42. Show all of the patients grouped into weight groups. Show the total amount of patients in each weight group. Order the list by the weight group decending.
